@@ -1,4 +1,7 @@
-## Hi there 👋
+## ˆ𐃷ˆ
+![](https://komarev.com/ghpvc/?username=SerialExperimentsFyodor&color=8E79C7&label=Hi)
+Too lazy to make this . Look at rentry instead 
+
 
 <!--
 **SerialExperimentsFyodor/SerialExperimentsFyodor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
