@@ -1,6 +1,7 @@
 ## ˆ𐃷ˆ
 ![](https://komarev.com/ghpvc/?username=SerialExperimentsFyodor&color=8E79C7&label=Hi)
-Too lazy to make this . Look at rentry instead 
+<p align="center">Too lazy to make this . Look at rentry instead</p>
+
 
 
 <!--
