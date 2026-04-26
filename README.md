@@ -6,7 +6,7 @@
 <img src=https://file.garden/aZHGG_3ch2qR4sr9/fyozozoai.png>
 
 
-> fyozai int , dni under 17
+> fyozai int , dni under 17 
 
 <!--
 **SerialExperimentsFyodor/SerialExperimentsFyodor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
