@@ -1,8 +1,12 @@
 ## ˆ𐃷ˆ
+
 ![](https://komarev.com/ghpvc/?username=SerialExperimentsFyodor&color=8E79C7&label=Hi)
 <p align="center">Too lazy to make this . Look at rentry instead</p>
 
+<img src=https://file.garden/aZHGG_3ch2qR4sr9/fyozozoai.png>
 
+
+> fyozai int
 
 <!--
 **SerialExperimentsFyodor/SerialExperimentsFyodor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
